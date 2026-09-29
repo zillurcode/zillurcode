@@ -1,4 +1,5 @@
 
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin-right: 8px;"/>
 
 <h1 align="center">Hi 👋, I'm Zillur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
