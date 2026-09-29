@@ -1,3 +1,7 @@
+<img width="1792" height="592" alt="b_cover" src="https://github.com/user-attachments/assets/41fc939a-c561-4833-96a7-56a758ad812b" />
+
+
+
 <h1 align="center">Hi 👋, I'm Zillur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
