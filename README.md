@@ -1,7 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Zillur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [book-vibe](https://mybookstore26.netlify.app/)
+- 🔭 I’m currently working on [book-vibe](https://mybookstore26.netlify.app/),[fit-log](https://fitnessb14a6.netlify.app/)
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **JavaScript, TypeScript, React and Next.js**
 - 📫 How to reach me **zillur.liu@gmail.com**
@@ -37,7 +39,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 8px;"/>
   </a>
   <!-- 7. Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img width="1792" height="592" alt="b_cover" src="https://github.com/user-attachments/assets/8edb9b86-2e66-4a98-a9e4-14c810cd39ae" />
+
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin-right: 8px;"/>
   </a>
   <!-- Node.js -->
